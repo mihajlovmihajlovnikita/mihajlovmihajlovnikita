@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihajlovmihajlovnikita
+- 👋 Hi, I’m @mihajlovmihajlovnikita.
 - 👀 I’m interested in colt and beny
 - 🌱 I’m currently learning Typescript and Rust.
 - 💞️ I’m looking to collaborate on Bootstrap
