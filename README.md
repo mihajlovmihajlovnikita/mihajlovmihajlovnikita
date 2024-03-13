@@ -5,6 +5,5 @@
 - 📫 How to reach me mihajlovmihajlovnikita@gmail.com
 - DPD.
 - 
-mihajlovmihajlovnikita/mihajlovmihajlovnikita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub prof
-  
+mihajlovmihajlovnikita/mihajlovmihajlovnikita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pro
 
